@@ -1,1 +1,1 @@
-Primer fichero en el primer repositorio de Rubén Hernández Rodas
+Mi primer fichero en mi primer repositorio, Rubén Hernández Rodas
